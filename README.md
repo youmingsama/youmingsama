@@ -6,4 +6,4 @@
 
  笔记本是散热极差的光影精灵4
 
-![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo/season/fangzi1.jpg)
+![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo/ing/jkkkkkk.jpg)![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo/ing/jkkkkkk.jpg)
