@@ -1,6 +1,6 @@
 ### 这里是youmingsama
 
- 博客是https://www.youmingsama.cn ，博客用的是githubpages托管的，部署是用的github action
+ 博客是https://youmingsama.cn ，博客用的是githubpages托管的，部署是用的github action
 
 主力机是台式机，配置是i7-9700k,1070ti,显示器是戴尔的U2417H
 
