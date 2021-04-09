@@ -5,4 +5,5 @@
 主力机是台式机，配置是i7-9700k,1070ti,显示器是戴尔的U2417H
 
  笔记本是散热极差的光影精灵4
+ 
 ![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo_1@master/img2/野炊.gif)
