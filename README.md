@@ -1,6 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=youmingsama&fontSize=60)
 ![](https://cdn.jsdelivr.net/gh/imnekoda/pivcgame@main/img/2233.gif)
-![](https://count.getloli.com/get/@youmingsama?theme=rule34)
 <img align="center" src = "https://count.getloli.com/get/@youmingsama?theme=rule34">
 ### 这里是youmingsama
 
