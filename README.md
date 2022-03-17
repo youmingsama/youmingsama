@@ -3,13 +3,10 @@
 ![](https://count.getloli.com/get/@youmingsama?theme=rule34)
 ### 这里是youmingsama
 
- 博客是https://youmingsama.cn ，博客用的是githubpages托管的，部署是用的github action
-
-主力机是台式机，配置是i7-9700k,1070ti,显示器是戴尔的U2417H
-
- 笔记本是散热极差的光影精灵4
- 
-   ----------------------![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo_1@master/img2/野炊.gif)------------
+<p align="center">
+  <samp>👋🏻 Hello there. I'm <a href="https://github.com/youmingsama" target="_blank" rel="noopener">SpiffyEight77</a>.<br />I'm a web developer. Learning Unity recently. Coding for fun.<br />You can find me in <a href="https://youmingsama.cn" target="_blank" rel="noopener">Blog(Chinese)</a> or <a href="https://t.me/async_coda" target="_blank" rel="noopener">Telegram</a>. </samp>
+  <br />
+  <br />
    
    
 <!-- <p align="center">
