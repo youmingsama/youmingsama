@@ -1,10 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=youmingsama&fontSize=60)
 ![](https://cdn.jsdelivr.net/gh/imnekoda/pivcgame@main/img/2233.gif)
 ![](https://count.getloli.com/get/@youmingsama?theme=rule34)
+<img align="center" src = "https://count.getloli.com/get/@youmingsama?theme=rule34">
 ### 这里是youmingsama
 
 <p align="center">
-  <samp>👋🏻 Hello there. I'm <a href="https://github.com/youmingsama" target="_blank" rel="noopener">SpiffyEight77</a>.<br />I'm a web developer. Learning Unity recently. Coding for fun.<br />You can find me in <a href="https://youmingsama.cn" target="_blank" rel="noopener">Blog(Chinese)</a> or <a href="https://t.me/async_coda" target="_blank" rel="noopener">Telegram</a>. </samp>
+  <samp>👋🏻 Hello there. I'm <a href="https://github.com/youmingsama" target="_blank" rel="noopener">youmingsama</a>.<br />I'm a web developer. Learning Unity recently. Coding for fun.<br />You can find me in <a href="https://youmingsama.cn" target="_blank" rel="noopener">Blog(Chinese)</a> or <a href="https://t.me/async_coda" target="_blank" rel="noopener">Telegram</a>. </samp>
   <br />
   <br />
    
