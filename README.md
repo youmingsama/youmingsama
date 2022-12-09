@@ -35,4 +35,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=youmingsama&show_icons=true&bg_color=30,e55d87,5fc3e4&title_color=ffffff&icon_color=ffffff&text_color=ffffff&line_height=27&hide_title=false" />
 </a>
 </p>
-![](https://github-readme-stats.vercel.app/api/?username=youmingsama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
