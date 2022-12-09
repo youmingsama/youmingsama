@@ -2,16 +2,12 @@
 ![](https://cdn.jsdelivr.net/gh/imnekoda/pivcgame@main/img/2233.gif)
 
 
-<p align="center">
+<p align="middle">
   <samp>👋🏻 Hello there. I'm <a href="https://github.com/youmingsama" target="_blank" rel="noopener">youmingsama</a>(中文名字可以叫我幽明名字来源的灵感是来源于书经).<br />I'm a moyu developer. Learning Unity recently. Coding for fun.<br />You can find me in <a href="https://youmingsama.cn" target="_blank" rel="noopener">Blog(Chinese)</a>,<a href="https://youmingsama.top" target="_blank" rel="noopener">notion</a> or <a href="mailto:FLDYSYMhahaha229@outlook.com" target="_blank" rel="noopener">Email</a>. </samp>
   <br />
   <br />
-   
-   
-<!-- <p align="center">![C45907AD451856C5DBFC44A92381FA2F](https://user-images.githubusercontent.com/48556744/206746479-f5b309e6-70c9-4b99-bd8d-3a44458522d6.png)
-
-  <samp>My Language and tools:</samp>
-</p> -->
+  
+  <img  align='middle' src="https://user-images.githubusercontent.com/48556744/206747254-d82da548-dd10-4965-b2b9-693e0c66ed1f.png" /> 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Debian-CE0058?style=flat-square&logo=Debian&logoColor=white" />
